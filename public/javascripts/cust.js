@@ -1,6 +1,6 @@
 // jQuery Js Document
 $(document).ready(function() {
-	notice ();
+	// notice ();
 	initWow ();
 });
 
