@@ -8,4 +8,5 @@ gulpfile.js
 package.json
 lib
 node_modules
+npm-command.txt
 npm-debug.log
