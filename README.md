@@ -122,6 +122,10 @@ _This is italic text_
 
 ~~Strikethrough~~
 
+### email autolink
+:|
+<address@gmail.com>
+
 ### Links Samples:
 
  * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
@@ -141,7 +145,7 @@ the inspiration to this, and some handy implementation hints, came.
 > - about **Sequence diagrams** syntax [here][0]
 > - [where is google?][1]
 
-### links URL indicator
+### links URL indicator (usually donot display)
 [-1]: http://mrdoob.com/projects/code-editor/
 [0]: http://bramp.github.io/js-sequence-diagrams/
 [1]: https://www.google.com/?gfe_rd=cr&ei=FjjiVuzCE63u8weE7rD4Bw&gws_rd=cr&fg=1
