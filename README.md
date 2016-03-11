@@ -98,7 +98,7 @@ Start numbering with offset:
 ### Icons
 :+1: 
 :-1: 
-:* 
+:*:
 :$ 
 :( 
 :) 
