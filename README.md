@@ -123,8 +123,7 @@ _This is italic text_
 ~~Strikethrough~~
 
 ### email autolink
-:|
-<address@gmail.com>
+<address@gmail.com> :|
 
 ### Links Samples:
 
