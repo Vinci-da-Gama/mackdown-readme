@@ -120,9 +120,8 @@ _This is italic text_
 ### email autolink, itself is a link
 <address@gmail.com>
 
-### image
-![alt tag](https://github.com/Vinci-da-Gama/mackdown-readme/blob/master/public/images/matic-symbol.png "This is title (local image)")
-![Alt tag](http://nnao.deviantart.com/art/Magic-circle-1-216198906 "Title for Image")
+### image (markdown can't change size of image)
+![alt tag](https://github.com/Vinci-da-Gama/mackdown-readme/blob/master/public/images/matic-symbol.png)
 
 ### Links Samples:
 
