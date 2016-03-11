@@ -21,7 +21,6 @@ Second Level
 > - Full access to **Google Drive** or **Dropbox** is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.
 > - Imported documents are downloaded in your browser and are not transmitted to a server.
 > - If you experience problems saving your documents on Google Drive, check and optionally disable browser extensions, such as Disconnect.
----
 
 ### Tables
 
@@ -96,5 +95,5 @@ Start numbering with offset:
 57. foo
 1. bar
 
-###Icons
-#8-)
+### Icons
+# 8-)
