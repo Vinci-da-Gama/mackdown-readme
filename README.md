@@ -95,10 +95,14 @@ Start numbering with offset:
 57. foo
 1. bar
 
-### Subscript / Superscript
-
-- 19^th^
-- H~2~O
+### Icons
+:+1: 
+:-1: 
+:* 
+:$ 
+:( 
+:) 
+:|
 
 ## Blockquotes
 
@@ -131,10 +135,13 @@ _This is italic text_
 
 ### Links in Separated way:
 
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
+Props to Mr. Doob and his [code editor][-1], from which
 the inspiration to this, and some handy implementation hints, came.
 
 > - about **Sequence diagrams** syntax [here][0]
+> - [where is google?][1]
 
 ### links URL indicator
+[-1]: http://mrdoob.com/projects/code-editor/
 [0]: http://bramp.github.io/js-sequence-diagrams/
+[1]: https://www.google.com/?gfe_rd=cr&ei=FjjiVuzCE63u8weE7rD4Bw&gws_rd=cr&fg=1
