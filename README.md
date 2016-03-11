@@ -120,6 +120,9 @@ _This is italic text_
 ### email autolink, itself is a link
 <address@gmail.com>
 
+### image
+![alt tag](https://github.com/Vinci-da-Gama/mackdown-readme/blob/master/public/images/matic-symbol.png)
+
 ### Links Samples:
 
  * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
