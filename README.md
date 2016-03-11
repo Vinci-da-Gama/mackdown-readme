@@ -96,13 +96,8 @@ Start numbering with offset:
 1. bar
 
 ### Icons
-:+1: 
-:-1: 
-:*:
-:$ 
-:( 
-:) 
-:|
+:+1:
+:-1:
 
 ## Blockquotes
 
@@ -122,8 +117,8 @@ _This is italic text_
 
 ~~Strikethrough~~
 
-### email autolink
-<address@gmail.com> :|
+### email autolink, itself is a link
+<address@gmail.com>
 
 ### Links Samples:
 
