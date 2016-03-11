@@ -96,4 +96,17 @@ Start numbering with offset:
 1. bar
 
 ### Icons
-# 8-)
+# what is this 8-)
+__Small Face :)__
+
+### Typographic replacements
+
+Enable typographer option to see result.
+
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+
+## Blockquotes
+
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
