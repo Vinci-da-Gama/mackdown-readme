@@ -121,7 +121,8 @@ _This is italic text_
 <address@gmail.com>
 
 ### image
-![alt tag](https://github.com/Vinci-da-Gama/mackdown-readme/blob/master/public/images/matic-symbol.png)
+![alt tag](https://github.com/Vinci-da-Gama/mackdown-readme/blob/master/public/images/matic-symbol.png "This is title (local image)")
+![Alt text](http://nnao.deviantart.com/art/Magic-circle-1-216198906 "Title for Image (online image)")
 
 ### Links Samples:
 
