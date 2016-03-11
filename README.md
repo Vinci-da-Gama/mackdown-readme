@@ -97,7 +97,7 @@ Start numbering with offset:
 
 ### Icons
 # what is this 8-)
-__Small Face :)__
+__Advertisement :)__
 
 ### Typographic replacements
 
@@ -110,3 +110,15 @@ Enable typographer option to see result.
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
+
+## Emphasis
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
