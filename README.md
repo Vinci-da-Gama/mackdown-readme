@@ -95,15 +95,10 @@ Start numbering with offset:
 57. foo
 1. bar
 
-### Icons
-# what is this 8-)
-__Advertisement :)__
+### Subscript / Superscript
 
-### Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+- 19^th^
+- H~2~O
 
 ## Blockquotes
 
@@ -122,3 +117,24 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+### Links Samples:
+
+ * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
+ * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
+ * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
+ * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+
+ This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
+
+---
+
+### Links in Separated way:
+
+Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
+the inspiration to this, and some handy implementation hints, came.
+
+> - about **Sequence diagrams** syntax [here][0]
+
+### links URL indicator
+[0]: http://bramp.github.io/js-sequence-diagrams/
