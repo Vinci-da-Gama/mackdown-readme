@@ -100,7 +100,7 @@ Start numbering with offset:
 :-1:
 :shit:
 
-### *Need More Icons, check links below*
+### *Need More Icons, check link below*
 * [EMOJI-Icons](http://www.webpagefx.com/tools/emoji-cheat-sheet/) For MackDown Icons
 
 ## Blockquotes
