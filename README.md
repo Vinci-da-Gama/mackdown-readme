@@ -98,6 +98,10 @@ Start numbering with offset:
 ### Icons
 :+1:
 :-1:
+:shit:
+
+### *Need More Icons, check links below*
+* [EMOJI-Icons](http://www.webpagefx.com/tools/emoji-cheat-sheet/) For MackDown Icons
 
 ## Blockquotes
 
